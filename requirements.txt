@@ -5,17 +5,6 @@ pydantic-settings==2.1.0
 python-multipart==0.0.6
 aiofiles==23.2.1
 
-# OCR ve NLP
-easyocr==1.7.0
-torch==2.0.1
-torchvision==0.15.2
-transformers==4.35.2
-numpy==1.24.3
-Pillow==10.1.0
-
-# Veri Tabanı
-# SQLite3 built-in Python'da geliyor
-
 # API ve Web Scraping
 requests==2.31.0
 beautifulsoup4==4.12.2
