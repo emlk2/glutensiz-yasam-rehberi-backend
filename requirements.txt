@@ -1,0 +1,35 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+python-multipart==0.0.6
+aiofiles==23.2.1
+
+# OCR ve NLP
+easyocr==1.7.0
+torch==2.0.1
+torchvision==0.15.2
+transformers==4.35.2
+numpy==1.24.3
+Pillow==10.1.0
+
+# Veri Tabanı
+sqlite3-python==1.0.0
+
+# API ve Web Scraping
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+httpx==0.25.2
+
+# Environment ve Config
+python-dotenv==1.0.0
+
+# Logging ve Utils
+loguru==0.7.2
+
+# CORS
+fastapi-cors==0.0.6
+
+# Type Checking
+typing-extensions==4.8.0
